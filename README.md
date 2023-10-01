@@ -6,7 +6,11 @@
         My passion is creating high-performance web applications and providing innovative solutions through software
         development.</h3>
 </div>
-
+<div id="badges" align="center">
+    <a href="#">
+        <img src="https://img.shields.io/badge/Linkedin-Alexander%20Herrera%20Millet-blue?logo=Linkedin&logoColor=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Falexander-herrera-millet-8127b81b9%2F" alt="Bage Linkedin">
+    </a>
+</div>
 <!--
 **Alex900930/Alex900930** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
