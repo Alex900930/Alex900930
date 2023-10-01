@@ -1,8 +1,11 @@
 
-![giphy](https://github.com/Alex900930/Alex900930/assets/109861348/6365eeba-a317-410d-9e3d-312500a9694d)
-
-
-### Hello everyone, I am Alexander Harold Herrera Millet👋 
+<div id="header" align="center">
+    <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="gif_coding" width="200" height="200"/>
+    <h1>Hello everyone, I am Alexander Harold Herrera Millet👋 </h1>
+    <h3>Hello! I am a Full Stack software developer with extensive experience in web technologies.
+        My passion is creating high-performance web applications and providing innovative solutions through software
+        development.</h3>
+</div>
 
 <!--
 **Alex900930/Alex900930** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
