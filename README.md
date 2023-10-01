@@ -7,7 +7,7 @@
         development.</h3>
 </div>
 <div id="badges" align="center">
-    <a href="#">
+    <a href="https://www.linkedin.com/in/alexander-herrera-millet-8127b81b9/">
         <img src="https://img.shields.io/badge/Linkedin-Alexander%20Herrera%20Millet-blue?logo=Linkedin&logoColor=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Falexander-herrera-millet-8127b81b9%2F" alt="Bage Linkedin">
     </a>
 </div>
