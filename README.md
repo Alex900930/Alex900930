@@ -3,7 +3,7 @@
     <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="gif_coding" width="200" height="200"/>
     <h1>Hello everyone, I am Alexander Harold Herrera Millet👋 </h1>
 </div>
-
+| ------------- | ------------- |
  ### About Me     
     - 🔭 I am currently working on a project for a highly prestigious Chilean company.
     - 🌱 I am constantly learning about technology and related topics.
