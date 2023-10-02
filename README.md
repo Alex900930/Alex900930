@@ -14,7 +14,38 @@
 
 <div id="tools" align="left">
     <h3>Languages and Tools</h3>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="JAVASCRIPT" height="40" width="40" />&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="HTML" height="40"
+         width="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" alt="CSS" height="40"
+         width="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="JAVASCRIPT"
+         height="40" width="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" alt="PHP" height="40"
+         width="40"/>&nbsp;
+
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="REACT" height="40"
+         width="40"/>&nbsp;>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-plain.svg" alt="VUE" height="40"
+         width="40"/>&nbsp;>
+
+    <img src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original.svg" alt="Symfony"
+         height="40" width="40"/>&nbsp;>
+
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap"
+         height="40" width="40"/>&nbsp;>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" alt="GIT" height="40"
+         width="40"/>&nbsp;>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" alt="Node" height="40"
+         width="40"/>&nbsp;>
+
+    <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="Express"
+         height="40" width="40"/>&nbsp;>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" alt="MYSQL" height="40"
+         width="40"/>&nbsp;>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg" alt="MONGODB" height="40"
+         width="40"/>&nbsp;>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="jest" height="40"
+         width="40"/>&nbsp;>
 </div>
 <!--
 **Alex900930/Alex900930** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
