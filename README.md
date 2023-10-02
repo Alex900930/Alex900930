@@ -49,6 +49,8 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=Alex900930&theme=transparent)](https://git.io/streak-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alex900930&show_icons=true&theme=transparent)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alex900930&hide_progress=true)
 <!--
 **Alex900930/Alex900930** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
