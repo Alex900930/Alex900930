@@ -45,7 +45,8 @@
          width="40"/>&nbsp;
 </div>
 
-
+### Statistics
+[![GitHub Streak](https://streak-stats.demolab.com?user=Alex900930&theme=transparent)](https://git.io/streak-stats)
 <!--
 **Alex900930/Alex900930** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
