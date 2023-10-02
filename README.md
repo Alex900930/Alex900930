@@ -5,12 +5,12 @@
 </div>
 
  ### About Me     
-        - 🔭 Actualmente estoy trabajando en un Proyecto Para una Empresa Chilena de Alto Prestigio.
-        - 🌱 Estoy aprendiendo constantemente sobre tecnología y temas afines.
-        - 👯 Siempre estoy abierto a colaborar en proyectos emocionantes y desafiantes.
-        - 💬 Puedes preguntarme sobre Javascript, Php, Sql, Jest, React, Symfony.
-        - 📫 Puedes contactarme a través de aherreramilet@gmail.com.
-        - ⚡ Dato curioso: En mis ratos libres me gusta escuchar musica y ver peliculas.
+    - 🔭 I am currently working on a project for a highly prestigious Chilean company.
+    - 🌱 I am constantly learning about technology and related topics.
+    - 👯 I am always open to collaborating on exciting and challenging projects.
+    - 💬 You can ask me about JavaScript, PHP, SQL, Jest, React, Symfony.
+    - 📫 You can contact me via aherreramilet@gmail.com.
+    - ⚡ In my free time, I enjoy listening to music and watching movies.
 
 <div id="badges" align="center">
     <a href="https://www.linkedin.com/in/alexander-herrera-millet-8127b81b9/">
