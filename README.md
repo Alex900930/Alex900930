@@ -11,7 +11,7 @@
         <img src="https://img.shields.io/badge/Linkedin-Alexander%20Herrera%20Millet-blue?logo=Linkedin&logoColor=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Falexander-herrera-millet-8127b81b9%2F" alt="Bage Linkedin">
     </a>
 </div>
----
+<hr>
 <div id="tools" align="left">
     <h3>Languages and Tools</h3>
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="JAVASCRIPT" height="40" width="40" />&nbsp;
