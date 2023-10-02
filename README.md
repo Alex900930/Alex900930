@@ -2,10 +2,16 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="gif_coding" width="200" height="200"/>
     <h1>Hello everyone, I am Alexander Harold Herrera Millet👋 </h1>
-    <h3>Hello! I am a Full Stack software developer with extensive experience in web technologies.
-        My passion is creating high-performance web applications and providing innovative solutions through software
-        development.</h3>
 </div>
+
+ ### About Me     
+        - 🔭 Actualmente estoy trabajando en un Proyecto Para una Empresa Chilena de Alto Prestigio.
+        - 🌱 Estoy aprendiendo constantemente sobre tecnología y temas afines.
+        - 👯 Siempre estoy abierto a colaborar en proyectos emocionantes y desafiantes.
+        - 💬 Puedes preguntarme sobre Javascript, Php, Sql, Jest, React, Symfony.
+        - 📫 Puedes contactarme a través de aherreramilet@gmail.com.
+        - ⚡ Dato curioso: En mis ratos libres me gusta escuchar musica y ver peliculas.
+
 <div id="badges" align="center">
     <a href="https://www.linkedin.com/in/alexander-herrera-millet-8127b81b9/">
         <img src="https://img.shields.io/badge/Linkedin-Alexander%20Herrera%20Millet-blue?logo=Linkedin&logoColor=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Falexander-herrera-millet-8127b81b9%2F" alt="Bage Linkedin">
@@ -51,17 +57,4 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alex900930&show_icons=true&theme=transparent)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alex900930&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-**Alex900930/Alex900930** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
