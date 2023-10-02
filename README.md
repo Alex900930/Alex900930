@@ -5,6 +5,7 @@
 </div>
 
  ### About Me     
+    - 🎓 I hold a degree in Computer Science (First Class Honors) 🖥️. 
     - 🔭 I am currently working on a project for a highly prestigious Chilean company.
     - 🌱 I am constantly learning about technology and related topics.
     - 👯 I am always open to collaborating on exciting and challenging projects.
